@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex14_1_4</string>
+    <string name="btn_start">음악서비스 시작</string>
+    <string name="btn_stop">음악서비스 중지</string>
+</resources>
